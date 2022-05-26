@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'GZFrameworkALLBuild'
-  s.version          = '0.0.0.1'
+  s.version          = '0.0.0.5'
   s.summary          = '个人工程架构练习'
 
 # This description is used to generate tags and improve search results.
