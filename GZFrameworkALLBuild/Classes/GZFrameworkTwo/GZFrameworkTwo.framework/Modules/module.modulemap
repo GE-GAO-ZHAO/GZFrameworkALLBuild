@@ -1,0 +1,6 @@
+framework module GZFrameworkTwo {
+  umbrella header "GZFrameworkTwo.h"
+
+  export *
+  module * { export * }
+}
